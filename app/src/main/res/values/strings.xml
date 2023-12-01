@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AssignmentManagementApp</string>
+
+    <string name="main_activity_name">All Assignments</string>
+    <string name="add_assignment_activity_name">Add a New Assignment</string>
+
+    <string name="edit_assignment_title">Title</string>
+    <string name="edit_assignment_description">Description</string>
+    <string name="edit_assignment_due_date">Due Date</string>
+    <string name="edit_assignment_module_code">Module Code</string>
+    <string name="assignment_resources">Assignment Resources</string>
+
+    <string name="search_url">Enter a keyword to search for</string>
+
+    <string name="search">Search</string>
+
+    <string name="add_button">Add</string>
+</resources>
